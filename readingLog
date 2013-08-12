@@ -1,0 +1,2 @@
+2013-08-11
+reading nc_log.* find a bug which can generate core dump
